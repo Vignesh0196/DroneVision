@@ -23,6 +23,6 @@ Detecting and Counting humans in Aerial Image ( Drone Vision )
   * By Implementing Sliding Window would improve detection accuracy even if we are using Pretrained Model.
 
 
-## Conclusion:
+## Conclusion
  * Custom training the Model with our own dataset will improve Accuracy
  * Sliding Window helps Model to identify tiny objects even in Low Resolution Images
