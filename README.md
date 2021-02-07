@@ -7,4 +7,4 @@ Detecting and Counting humans in Aerial Image ( Drone Vision )
 
 ### Example
 [![](https://github.com/Vignesh0196/DroneVision/blob/main/result.png)](https://github.com/Vignesh0196/DroneVision)
-
+* Total Count: 6
