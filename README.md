@@ -11,9 +11,9 @@ Detecting and Counting humans in Aerial Image ( Drone Vision )
 * Total Humans: 6
 
 ### Boundaries
- * Model trained on COCO dataset contains 80 classes including humans ( needed for our usecase)
+ * Model trained on COCO dataset contains 80 classes including humans ( needed for our usecase )
  * Because of lack of dataset related to our usecase, Custom training is not possible. 
-   So, I have decided use pretrained model ( trained on COCO dataset ) to detect humans in the given Image
+   So, I have decided to use pretrained model ( trained on COCO dataset ) to detect humans in the given Image
  * Model couldn't able to detect too small humans present in the image, this could be resolved by using Sliding window as a part of the pipeline
  
 ### Difficulties
@@ -25,4 +25,4 @@ Detecting and Counting humans in Aerial Image ( Drone Vision )
 
 ## Conclusion
  * Custom training the Model with our own dataset will improve Accuracy
- * Sliding Window helps Model to identify tiny objects even in Low Resolution Images
+ * Sliding Window helps Model to identify tiny objects in Low Resolution Images
