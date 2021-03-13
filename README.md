@@ -16,9 +16,6 @@ Detecting and Counting humans in Aerial Image ( Drone Vision )
    So, I have decided to use pretrained model ( trained on COCO dataset ) to detect humans in the given Image
  * Model couldn't able to detect too small humans present in the image, this could be resolved by using Sliding window as a part of the pipeline
  
-### Difficulties
-  * Couldn't able to collect datase to Custom Train the model within this short period of time to complete this Assesment
-  
 ### Improvements
   * By Implementing Sliding Window would improve detection accuracy even if we are using Pretrained Model
 
